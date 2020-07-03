@@ -53,9 +53,4 @@ class YouTubeDebugger extends Component {
     }
 }
 
-
 export default YouTubeDebugger
-
-// Create a button with the class 'bitrate'. Clicking this button changes the settings.bitrate state property to 12.
-
-// Create a button with the class 'resolution'. Clicking this button changes the settings.video.resolution state property to '720p'.
